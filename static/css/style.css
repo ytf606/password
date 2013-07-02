@@ -1,0 +1,140 @@
+html,body{
+	background-color:#F2F2F2;
+}
+body{
+	font:14px/1.5 Tahoma, Helvetica, Arial, \5b8b\4f53;
+	color:#000;
+}
+a{
+	color:#0099CC;
+	text-decoration:none;
+}
+a:hover{
+	color:#0099CC;
+	text-decoration:none;
+}
+.left{
+	float:left;
+}
+.right{
+	float:right;
+}
+.clear{
+	clear:both;
+}
+/* ------------ common ---------------------------- */
+
+/* ------------ header ---------------- */
+header{
+	text-align:left;
+	padding:0;
+	margin:15px auto;
+}
+
+
+/* ------------ web app ---------------------------- */
+h1{
+	color:#0099CC;
+	margin:30px 0 12px;
+	}
+h2{
+	font-size:22px;
+	color:#0099CC;
+	margin:30px 0 12px;
+	}
+h2 span{
+	font-size:22px;
+	color:#FFF;
+	margin-right:7px;
+	background-color:#0099CC;
+	width:33px;
+	height:33px;
+	display:inline-block;
+	text-align:center;
+}
+h3{
+	font-size:16px;
+	color:#0099CC;
+	margin:20px 0;
+}
+h3 span{
+	font-size:16px;
+	color:#FFF;
+	margin-right:6px;
+	background-color:#0099CC;
+	width:26px;
+	display:inline-block;
+	text-align:center;
+}
+#input span{
+	color:#0099CC;
+	font-weight:bold;
+	font-size:22px;
+	margin:0 20px;
+	}
+#input input{
+    font-size: 14px;
+    height: 30px;
+    padding: 5px;
+	margin-left:5px;
+}
+#input label{
+	float:none;
+	display:inline;
+	padding-right:5px;
+}
+#input p{
+	font-size:12px;
+	color:#999;
+	margin-top:16px;
+	}
+.other{
+	font-size:12px;
+	color:#999;
+	}
+#code16{
+	display:inline-block;
+	width:140px;
+	text-align:center;
+	margin-left: 16px;
+	}
+.code16d{
+	border:2px solid #0099CC;
+	}
+.code16h{
+	border:2px solid #FF881C;
+	}
+#copycode16{
+	color:#FFF;
+	display:inline-block;
+	padding:0 3px;
+	cursor:pointer;
+	}
+.copycode16d{
+	background-color:#0099CC;
+	border:2px solid #0099CC;
+	}
+.copycode16h{
+	background-color:#FF881C;
+	border:2px solid #FF881C;
+	}
+p{
+	font-size:12px;
+	color:#666;
+	margin:20px 0;
+	}
+#copyOK{
+	color:#F2F2F2;
+	border:2px solid #F2F2F2;
+	display:inline-block;
+	margin-left:16px;
+	padding:0 3px;
+}
+
+.down-button{
+	margin:10px 20px 10px 0;
+}
+#get{
+	margin-bottom: 100px;
+}
+
